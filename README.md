@@ -66,10 +66,10 @@ Abaixo estão as perguntas de negócio propostas e a abordagem SQL utilizada par
 ## ⚙️ Como Executar este Projeto
 
 1. Certifique-se de ter um cluster **AWS Redshift** ativo.
-2. Execute o script contido em `database/northwindddl.sql` para criar a estrutura das tabelas.
-3. Faça o upload dos arquivos `.csv` da base Northwind em um Bucket do **AWS S3**.
-4. Configure suas credenciais IAM no arquivo `database/copy.sql` e execute-o para carregar os dados.
-5. Sinta-se livre para rodar os scripts da pasta `scripts/` para validar os resultados!
+2. Execute o script contido em [`database/northwindddl.sql`](database/northwindddl.sql) para criar a estrutura das tabelas.
+3. Faça o upload dos arquivos [`.csv`](csv/) da base Northwind em um Bucket do **AWS S3**.
+4. Configure suas credenciais IAM no arquivo [`database/copy.sql`](database/copy.sql) e execute-o para carregar os dados.
+5. Sinta-se livre para rodar os scripts da pasta [`scripts/`](scripts/) para validar os resultados!
 
 ---
 *Projeto desenvolvido como parte de estudos práticos de Engenharia e Análise de Dados.*
