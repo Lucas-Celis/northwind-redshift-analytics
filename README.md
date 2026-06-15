@@ -58,13 +58,13 @@ Abaixo estão as perguntas de negócio propostas e a abordagem SQL utilizada par
 
 | Cenário | Visualização do Resultado |
 | :--- | :--- |
-| **DDL do Banco Nothwind** | ![Print da Execução](Resultado/northwindddl.png) |
-| **Carga de Dados via COPY** | ![Print da Execução](Resultado/copy.png) |
-| **Resultado da Atividade 1** | ![Print do Resultado](Resultado/atividade1.png) |
-| **Resultado da Atividade 2** | ![Print do Resultado](Resultado/atividade2.png) |
-| **Resultado da Atividade 3** | ![Print do Resultado](Resultado/atividade3.png) |
-| **Resultado da Atividade 4** | ![Print do Resultado](Resultado/atividade4.png) |
-| **Resultado da Atividade 5** | ![Print do Resultado](Resultado/atividade5.png) |
+| **DDL do Banco Nothwind** | ![Print da Execução](resultado/northwindddl.png) |
+| **Carga de Dados via COPY** | ![Print da Execução](resultado/copy.png) |
+| **Resultado da Atividade 1** | ![Print do Resultado](resultado/atividade1.png) |
+| **Resultado da Atividade 2** | ![Print do Resultado](resultado/atividade2.png) |
+| **Resultado da Atividade 3** | ![Print do Resultado](resultado/atividade3.png) |
+| **Resultado da Atividade 4** | ![Print do Resultado](resultado/atividade4.png) |
+| **Resultado da Atividade 5** | ![Print do Resultado](resultado/atividade5.png) |
 
 ---
 
