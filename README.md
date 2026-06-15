@@ -54,12 +54,17 @@ Abaixo estão as perguntas de negócio propostas e a abordagem SQL utilizada par
 
 ## 📸 Evidências e Resultados
 
-*Insira aqui capturas de tela das suas consultas sendo executadas no Query Editor do Redshift ou gráficos gerados.*
+*Resultado das consultas sendo executadas no Query Editor do Redshift.*
 
 | Cenário | Visualização do Resultado |
 | :--- | :--- |
-| **Carga de Dados via COPY** | ![Print da Execução](Evidencias/copy_execucao.png) |
-| **Resultado da Query de Categorias** | ![Print do Resultado](Evidencias/resultado_categorias.png) |
+| **DDL do Banco Nothwind** | ![Print da Execução](Resultado/northwindddl.png) |
+| **Carga de Dados via COPY** | ![Print da Execução](Resultado/copy.png) |
+| **Resultado da Atividade 1** | ![Print do Resultado](Resultado/atividade1.png) |
+| **Resultado da Atividade 2** | ![Print do Resultado](Resultado/atividade2.png) |
+| **Resultado da Atividade 3** | ![Print do Resultado](Resultado/atividade3.png) |
+| **Resultado da Atividade 4** | ![Print do Resultado](Resultado/atividade4.png) |
+| **Resultado da Atividade 5** | ![Print do Resultado](Resultado/atividade5.png) |
 
 ---
 
@@ -72,4 +77,4 @@ Abaixo estão as perguntas de negócio propostas e a abordagem SQL utilizada par
 5. Sinta-se livre para rodar os scripts da pasta [`scripts/`](scripts/) para validar os resultados!
 
 ---
-*Projeto desenvolvido como parte de estudos práticos de Engenharia e Análise de Dados.*
+*Projeto desenvolvido como parte de estudos práticos de Engenharia de Dados.*
