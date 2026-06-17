@@ -9,12 +9,12 @@ O objetivo deste projeto foi simular cenários reais de um Engenheiro / Analista
 ## 🛠️ Tecnologias e Ferramentas
 
 * **Banco de Dados / Data Warehouse:** AWS Redshift
-[`images/redshift.png`](images/redshift.png)
+![Redshift](images/redshift.png)
 * **Storage / Datalake:** AWS S3 (Armazenamento dos arquivos `.csv` de origem)
-[`images/s3.png`](images/s3.png)
-[`images/bucket.png`](images/bucket.png)
+![S3](images/s3.png)
+![Bucket](images/bucket.png)
 * **Linguagem:** SQL (Dialeto PostgreSQL/Redshift)
-[`images/sql.png`](images/sql.png)
+![SQL](images/sql.png)
 
 ---
 
