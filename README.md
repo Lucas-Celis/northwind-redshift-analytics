@@ -1,4 +1,4 @@
-# Northwind Data Analytics on AWS Redshift 🚀
+# Data Warehouse Northwind on AWS Redshift 🚀
 
 Este repositório contém a resolução de uma série de desafios de negócio utilizando o banco de dados de teste **Northwind**, totalmente implementado e executado na nuvem utilizando o **AWS Redshift**.
 
@@ -9,8 +9,12 @@ O objetivo deste projeto foi simular cenários reais de um Engenheiro / Analista
 ## 🛠️ Tecnologias e Ferramentas
 
 * **Banco de Dados / Data Warehouse:** AWS Redshift
-* **Storage / Data Lake:** AWS S3 (Armazenamento dos arquivos `.csv` de origem)
+[`images/redshift.png`](images/redshift.png)
+* **Storage / Datalake:** AWS S3 (Armazenamento dos arquivos `.csv` de origem)
+[`images/s3.png`](images/s3.png)
+[`images/bucket.png`](images/bucket.png)
 * **Linguagem:** SQL (Dialeto PostgreSQL/Redshift)
+[`images/sql.png`](images/sql.png)
 
 ---
 
@@ -20,6 +24,7 @@ O fluxo de dados seguiu as etapas abaixo:
 1. **Modelagem:** Criação do banco de dados `northwind` e sua estrutura DDL.
 2. **Ingestão (Datalake -> DW):** Upload dos dados históricos em formato CSV para um bucket no **AWS S3**.
 3. **Carga (Copy Command):** Execução de comandos `COPY` utilizando credenciais IAM para realizar o carregamento massivo de alto desempenho diretamente para os nós do Redshift.
+4. **Atividades:** Realização das atividades propostas utilizando a linguagem SQL no Query Editor do Redshift.
 
 ---
 
@@ -52,7 +57,7 @@ Abaixo estão as perguntas de negócio propostas e a abordagem SQL utilizada par
 
 ---
 
-## 📸 Evidências e Resultados
+## 📸 Resultados
 
 *Resultado das consultas sendo executadas no Query Editor do Redshift.*
 
